@@ -1,0 +1,27 @@
+<section class="about" id="about">
+    <div class="avatar-area">
+        <div class="circle">
+            <span><i class='bx bxl-html5'></i></span>
+            <span><i class='bx bxl-css3' ></i></span>
+            <span><i class='bx bxl-mongodb' ></i></span>
+            <span><i class='bx bxl-javascript' ></i></span>
+        </div>
+        <div class="avatar-img">
+            <img src="./images/undefined.png" alt="undefined">
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<div class="wrapper">
+                <h3 class="static-text anim">I am</h3>
+                <ul class="dynamic-text">
+                    <li><span>Freelancer</span></li>
+                    <li><span>Competetive Programmer</span></li>
+                    <li><span>Web Developer</span></li>
+                    <li><span>Digital Artist</span></li>
+                </ul>
+            </div>
